@@ -1,3 +1,4 @@
-Coloque sua foto aqui com o nome: foto.jpg
+Coloque sua foto aqui com o nome: foto.png (ou atualize o caminho em index.html).
 
 Recomendado: retrato vertical (ex.: 800×1000 px), formato JPG ou PNG.
+A foto atual é usada em tela cheia no hero da landing page.
